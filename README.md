@@ -1,7 +1,7 @@
 # React-Capstone: Reduce & Produce
 
 ## Description:
-Reduce & Produce is a productivity app meant to aid teams in accomplishing tasks, preparing meeting agendas, communicating with each other, and posting important communication to other memebers of the organiztion not on the administration team. 
+Reduce & Produce is a productivity app meant to aid teams in accomplishing tasks, preparing meeting agendas, communicating with each other, and posting important communication to other memebers of the organiztion not on the administration team. In the end, the app should help 'Reduce' stress and help to 'Produce' results.
 
 ## MVP: 
 - users can register
